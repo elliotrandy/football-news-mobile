@@ -1,6 +1,6 @@
 # football_news
 
-A new Flutter project.
+A new Flutter project for the mobile version of football news.
 
 ## Getting Started
 
